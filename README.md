@@ -29,4 +29,4 @@ pip3 install notebook
 
 
 
-Certainly, if you have any further inquiries or need assistance with any questions or topics, please don't hesitate to reach out to me at your provided email address: abdulmughni.h@gmail.com. I'm here to help with any questions or information you may require.
+Certainly, if you have any further inquiries or need assistance with any questions or topics, please don't hesitate to reach out to me at my email address: abdulmughni.h@gmail.com.
