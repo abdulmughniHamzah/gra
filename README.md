@@ -1,6 +1,6 @@
 
 # Requirements to run the scripts
-please Tbe informed the following packages are required to by installed
+please be informed that the following packages are required to by installed
 ```
 pip3 install pandas
 pip3 install seaborn
